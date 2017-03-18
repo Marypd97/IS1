@@ -1,12 +1,5 @@
-<<<<<<< Updated upstream
-
+linea0
 linea1
 hola mundo!:)
 linea3
-=======
-linea0
-
-hola mundo!:)
-
 linea4
->>>>>>> Stashed changes
