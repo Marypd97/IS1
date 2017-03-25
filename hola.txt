@@ -1,7 +1,3 @@
 holii
-<<<<<<< Updated upstream
 boliii
-=======
 pokeboli
-
->>>>>>> Stashed changes
